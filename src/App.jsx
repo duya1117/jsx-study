@@ -5,7 +5,7 @@ const App = () => {
     <>
       <div className="card">
         <img src="./avatar.webp" alt="avatar" />
-        <h2>h662</h2>
+        <h2>hs</h2>
         <h2>Programmer</h2>
       </div>
     </>
